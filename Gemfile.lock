@@ -1,6 +1,7 @@
 GIT
   remote: git://github.com/reactjs/react-rails.git
   revision: a05c5af050311843846dc29c4e3ef6bc34bb89fe
+  branch: master
   specs:
     react-rails (1.0.0.pre)
       coffee-script-source (= 1.8.0)

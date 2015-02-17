@@ -1,4 +1,6 @@
 ReactRailsTutorial::Application.routes.draw do
+  resources :products
+
   root "pages#index"
   resources :comments
 
